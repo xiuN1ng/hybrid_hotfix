@@ -1,0 +1,110 @@
+{
+    "Summary": {
+        "YooVersion": "2.2.4-preview",
+        "UnityVersion": "2021.3.34f1c1",
+        "BuildDate": "2024/12/3 17:27:36",
+        "BuildSeconds": 3,
+        "BuildTarget": 19,
+        "BuildMode": 1,
+        "BuildPipeline": "BuiltinBuildPipeline",
+        "BuildPackageName": "DefaultPackage",
+        "BuildPackageVersion": "2024-12-03-1046",
+        "UniqueBundleName": false,
+        "EnableAddressable": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "AutoCollectShaders": true,
+        "IgnoreRuleName": "YooAsset.Editor.NormalIgnoreRule",
+        "EnableSharePackRule": true,
+        "EncryptionClassName": "null",
+        "FileNameStyle": 0,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "AssetFileTotalCount": 5,
+        "MainAssetTotalCount": 5,
+        "AllBundleTotalCount": 2,
+        "AllBundleTotalSize": 1015989,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "HotFix.dll",
+            "AssetPath": "Assets/HotfixAsset/Codes/HotFix.dll.bytes",
+            "AssetGUID": "0d910f11910b04c458b98de739742f99",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotfixasset_codes.bundle",
+            "MainBundleSize": 969533,
+            "DependAssets": []
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Assets/HotfixAsset/Codes/mscorlib.dll.bytes",
+            "AssetGUID": "7c1007d7cdeb7e343a47c9e47c993f0e",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotfixasset_codes.bundle",
+            "MainBundleSize": 969533,
+            "DependAssets": []
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Assets/HotfixAsset/Codes/System.Core.dll.bytes",
+            "AssetGUID": "b450705714928ae4295122e506eebf0a",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotfixasset_codes.bundle",
+            "MainBundleSize": 969533,
+            "DependAssets": []
+        },
+        {
+            "Address": "System.dll",
+            "AssetPath": "Assets/HotfixAsset/Codes/System.dll.bytes",
+            "AssetGUID": "f91e1504f925e4944a58ac64ed510cba",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotfixasset_codes.bundle",
+            "MainBundleSize": 969533,
+            "DependAssets": []
+        },
+        {
+            "Address": "Cube",
+            "AssetPath": "Assets/HotfixAsset/Prefabs/Cube.prefab",
+            "AssetGUID": "85da56d358fe21944a4f3aabd8c19b76",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotfixasset_prefabs_cube.bundle",
+            "MainBundleSize": 46456,
+            "DependAssets": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assets_hotfixasset_codes.bundle",
+            "FileName": "d1368155a4e54f274cfa016c39d3f7e5.bundle",
+            "FileHash": "d1368155a4e54f274cfa016c39d3f7e5",
+            "FileCRC": "a71dd568",
+            "FileSize": 969533,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/HotfixAsset/Codes/HotFix.dll.bytes",
+                "Assets/HotfixAsset/Codes/mscorlib.dll.bytes",
+                "Assets/HotfixAsset/Codes/System.Core.dll.bytes",
+                "Assets/HotfixAsset/Codes/System.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "assets_hotfixasset_prefabs_cube.bundle",
+            "FileName": "21b8830dff0c829be830fc7f2464ee34.bundle",
+            "FileHash": "21b8830dff0c829be830fc7f2464ee34",
+            "FileCRC": "03a35b7e",
+            "FileSize": 46456,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/HotfixAsset/Prefabs/Cube.prefab"
+            ]
+        }
+    ],
+    "IndependAssets": []
+}
