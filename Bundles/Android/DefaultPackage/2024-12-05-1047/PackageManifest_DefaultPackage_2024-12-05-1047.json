@@ -1,0 +1,86 @@
+{
+    "FileVersion": "2.0.0",
+    "EnableAddressable": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 0,
+    "BuildPipeline": "BuiltinBuildPipeline",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "2024-12-05-1047",
+    "AssetList": [
+        {
+            "Address": "HotFix.dll",
+            "AssetPath": "Assets/HotfixAsset/Codes/HotFix.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Assets/HotfixAsset/Codes/mscorlib.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Assets/HotfixAsset/Codes/System.Core.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "System.dll",
+            "AssetPath": "Assets/HotfixAsset/Codes/System.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "Cube",
+            "AssetPath": "Assets/HotfixAsset/Prefabs/Cube.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1
+        },
+        {
+            "Address": "test",
+            "AssetPath": "Assets/HotfixAsset/Other/test.txt",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_hotfixasset_codes.bundle",
+            "UnityCRC": 4196690990,
+            "FileHash": "7adbd1cbef8968af09af7082ba3a5811",
+            "FileCRC": "c87bafae",
+            "FileSize": 969533,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_hotfixasset_prefabs_cube.bundle",
+            "UnityCRC": 409004456,
+            "FileHash": "0a4ae8d0c8abd4a93272900c55080138",
+            "FileCRC": "2d715b05",
+            "FileSize": 145505,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_hotfixasset_other.bundle",
+            "UnityCRC": 2775075889,
+            "FileHash": "a8f431cee0fa6a69cbffc9873678aaef",
+            "FileCRC": "ba299153",
+            "FileSize": 1192,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "Summary": {
+        "YooVersion": "2.2.4-preview",
+        "UnityVersion": "2021.3.34f1c1",
+        "BuildDate": "2024/12/5 18:25:03",
+        "BuildSeconds": 2,
+        "BuildTarget": 13,
+        "BuildMode": 0,
+        "BuildPipeline": "BuiltinBuildPipeline",
+        "BuildPackageName": "DefaultPackage",
+        "BuildPackageVersion": "2024-12-05-1047",
+        "UniqueBundleName": false,
+        "EnableAddressable": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "AutoCollectShaders": true,
+        "IgnoreRuleName": "YooAsset.Editor.NormalIgnoreRule",
+        "EnableSharePackRule": true,
+        "EncryptionClassName": "null",
+        "FileNameStyle": 0,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "AssetFileTotalCount": 6,
+        "MainAssetTotalCount": 6,
+        "AllBundleTotalCount": 3,
+        "AllBundleTotalSize": 1116230,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "HotFix.dll",
+            "AssetPath": "Assets/HotfixAsset/Codes/HotFix.dll.bytes",
+            "AssetGUID": "0d910f11910b04c458b98de739742f99",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotfixasset_codes.bundle",
+            "MainBundleSize": 969533,
+            "DependAssets": []
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Assets/HotfixAsset/Codes/mscorlib.dll.bytes",
+            "AssetGUID": "7c1007d7cdeb7e343a47c9e47c993f0e",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotfixasset_codes.bundle",
+            "MainBundleSize": 969533,
+            "DependAssets": []
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Assets/HotfixAsset/Codes/System.Core.dll.bytes",
+            "AssetGUID": "b450705714928ae4295122e506eebf0a",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotfixasset_codes.bundle",
+            "MainBundleSize": 969533,
+            "DependAssets": []
+        },
+        {
+            "Address": "System.dll",
+            "AssetPath": "Assets/HotfixAsset/Codes/System.dll.bytes",
+            "AssetGUID": "f91e1504f925e4944a58ac64ed510cba",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotfixasset_codes.bundle",
+            "MainBundleSize": 969533,
+            "DependAssets": []
+        },
+        {
+            "Address": "Cube",
+            "AssetPath": "Assets/HotfixAsset/Prefabs/Cube.prefab",
+            "AssetGUID": "85da56d358fe21944a4f3aabd8c19b76",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotfixasset_prefabs_cube.bundle",
+            "MainBundleSize": 145505,
+            "DependAssets": []
+        },
+        {
+            "Address": "test",
+            "AssetPath": "Assets/HotfixAsset/Other/test.txt",
+            "AssetGUID": "6e7e483d770561644a19caf4984f569d",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotfixasset_other.bundle",
+            "MainBundleSize": 1192,
+            "DependAssets": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assets_hotfixasset_codes.bundle",
+            "FileName": "7adbd1cbef8968af09af7082ba3a5811.bundle",
+            "FileHash": "7adbd1cbef8968af09af7082ba3a5811",
+            "FileCRC": "c87bafae",
+            "FileSize": 969533,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/HotfixAsset/Codes/HotFix.dll.bytes",
+                "Assets/HotfixAsset/Codes/mscorlib.dll.bytes",
+                "Assets/HotfixAsset/Codes/System.Core.dll.bytes",
+                "Assets/HotfixAsset/Codes/System.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "assets_hotfixasset_prefabs_cube.bundle",
+            "FileName": "0a4ae8d0c8abd4a93272900c55080138.bundle",
+            "FileHash": "0a4ae8d0c8abd4a93272900c55080138",
+            "FileCRC": "2d715b05",
+            "FileSize": 145505,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/HotfixAsset/Prefabs/Cube.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_hotfixasset_other.bundle",
+            "FileName": "a8f431cee0fa6a69cbffc9873678aaef.bundle",
+            "FileHash": "a8f431cee0fa6a69cbffc9873678aaef",
+            "FileCRC": "ba299153",
+            "FileSize": 1192,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/HotfixAsset/Other/test.txt"
+            ]
+        }
+    ],
+    "IndependAssets": []
+}
